@@ -1,0 +1,11 @@
+.nav{
+    display: grid;
+    grid-auto-flow: column;
+    align-content: center;
+    justify-content:space-around;
+
+}
+.nav a{
+    color: #fff;
+    text-decoration: none;
+}

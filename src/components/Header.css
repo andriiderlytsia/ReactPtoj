@@ -1,0 +1,22 @@
+.header{
+    background-color: #e44d3a;
+    width: 100%;
+
+    display: grid;
+    color: #fff;
+
+}
+.header__inner{
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 1fr 2fr;
+
+    /*grid-gap: 100px;*/
+    padding:0;
+}
+
+.header img{
+    width: 60px;
+    padding-top: 1px;
+
+}
