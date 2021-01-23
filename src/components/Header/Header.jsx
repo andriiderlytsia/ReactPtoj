@@ -1,6 +1,6 @@
 import './Header.css';
-import logo from './../images/Logo.jpg'
-import NavBar from "./Navbar";
+import logo from '../../images/Logo.jpg'
+import NavBar from "./Navbar/Navbar";
 
 const Header = () =>{
     return (

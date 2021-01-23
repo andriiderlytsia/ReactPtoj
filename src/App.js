@@ -1,7 +1,7 @@
 import './App.css';
-import Header from "./components/Header";
-import UserBar from "./components/UserBar";
-import Profile from "./components/Profile";
+import Header from "./components/Header/Header";
+import UserBar from "./components/UserBar/UserBar";
+import Profile from "./components/Profile/Profile";
 
 
 function App() {
@@ -12,9 +12,6 @@ function App() {
                 <UserBar />
                 <Profile />
             </div>
-
-            {/*<Profile />*/}
-
         </div>
 
 
