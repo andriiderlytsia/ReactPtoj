@@ -3,8 +3,7 @@ import MyPosts from './MyPosts/MyPosts'
 
 const Profile = () =>{
     return(
-        <div className={classes.content}>
-            sdasd
+        <div>
             <MyPosts />
         </div>);
 }
